@@ -1,0 +1,15 @@
+
+Non-functional Requirements
+The system should
+
+✔ Work offline
+
+✔ Be fast
+
+✔ Be simple
+
+✔ Be secure
+
+✔ Support hundreds of staff
+
+✔ Be easy to install

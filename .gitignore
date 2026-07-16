@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+
+# Local database
+*.db
+
+# Temporary files
+*.log
